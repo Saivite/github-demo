@@ -1,1 +1,10 @@
-This is char from Mars. Say Hi to Earth and Bye to Sun!!
+This is char from Mars. Say Hi to Earth and Bye to Sun!!\
+Hello I modified 
+
+Some characters like
+
+Alaska
+
+Tom
+
+Jerry
