@@ -1,3 +1,7 @@
+=========
+characters
+=========
+
 This is char from Mars. Say Hi to Earth and Bye to Sun!!\
 Hello I modified 
 
